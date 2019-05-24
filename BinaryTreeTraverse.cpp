@@ -1,4 +1,6 @@
 //이진 탐색 트리
+
+//인풋으로 숫자만 넣어서 트리를 구성하고 탐색한다.
 #include <iostream>
 #include <fstream>
 
