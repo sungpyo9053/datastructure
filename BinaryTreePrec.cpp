@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+//트리를 탐색하고 괄호를 
 
 using namespace std;
 
